@@ -4,7 +4,7 @@ CS3219 OTOT Task A1 is split into 3 parts. Read up on reverse proxy [here](https
 
 First, clone the repository
 ```sh
-git clone https://github.com/CS3219-AY2223S1/OTOT-A1.git
+git clone https://github.com/marcustw/ay2022-23_cs3219_otot_taska1 cs3219_otot_taska1
 cd cs3219_otot_taska1
 ```
 
@@ -13,11 +13,10 @@ cd cs3219_otot_taska1
 In the `app/index.html` file, search for "TODO" and fill in the blanks.
 
 Follow these guide to Dockerize the sample node app.
-- [https://nodejs.org/en/docs/guides/nodejs-docker-webapp/](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 
-Extra: Learning how to render HTML file using express.js
-- [https://expressjs.com/en/starter/hello-world.html](https://expressjs.com/en/starter/hello-world.html)
 - [https://codeforgeek.com/render-html-file-expressjs/](https://codeforgeek.com/render-html-file-expressjs/)
+- [https://www.cloudbees.com/blog/using-docker-compose-for-nodejs-development](https://www.cloudbees.com/blog/using-docker-compose-for-nodejs-development)
+- [https://expressjs.com/en/starter/hello-world.html](https://expressjs.com/en/starter/hello-world.html)
 
 ## A1.2 - Dockerize NGINX reverse proxy in `nginx-sample` folder
 
